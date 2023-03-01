@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meal-plan-frontend/static/css/main.3a747198.css",
+    "main.js": "/meal-plan-frontend/static/js/main.f029cff4.js",
+    "static/js/787.cda612ba.chunk.js": "/meal-plan-frontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "/meal-plan-frontend/index.html",
+    "main.3a747198.css.map": "/meal-plan-frontend/static/css/main.3a747198.css.map",
+    "main.f029cff4.js.map": "/meal-plan-frontend/static/js/main.f029cff4.js.map",
+    "787.cda612ba.chunk.js.map": "/meal-plan-frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a747198.css",
+    "static/js/main.f029cff4.js"
+  ]
+}
